@@ -1,0 +1,3 @@
+Issue found while writing valid submission
+
+1. There is no confirmation message after Contact us request is submitted. There must be a confirmation message for users to know their request is successfully submitted.
